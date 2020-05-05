@@ -9,7 +9,7 @@ To build and run this app you just need [Node.js](https://nodejs.org/en/) instal
 # Getting started
 - Clone the repository
 ```
-git clone --depth=1 https://github.com/pedrokehl/minimal-node-typescript-starter <project_name>
+git clone --depth=1 https://github.com/adyscorpius/minimal-node-typescript-starter <project_name>
 ```
 - Install dependencies
 ```
