@@ -1,5 +1,5 @@
-import sum from "../src/index";
+import log from "../src/index";
 
-test("sum", () => {
-  expect(sum(2, 3)).toBe(5);
+test("log", () => {
+  expect(log("Hello", "World")).toBe("Hello World");
 });

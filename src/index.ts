@@ -1,5 +1,7 @@
-function sum(a: number, b: number): number {
-  return a + b;
+// Basic Nodejs Typescript Starter.
+
+function log(first: string, second: string): string {
+  return first + " " + second;
 }
 
-export default sum;
+export default log;
